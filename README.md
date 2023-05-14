@@ -1,4 +1,4 @@
 # ReferenceMaterial
 Reference material for various Problems
 
-![Tree Algo](../main/TreeTraversals.jpg?raw=true)
+![TreeTraversals](https://github.com/niketsharma19/ReferenceMaterial/assets/33726841/e5694701-f417-4bf0-bb37-638e38780882)
